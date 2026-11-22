@@ -1,0 +1,1 @@
+https://github.com/EgorMalanin/slozhno-sosredotochitsya-ad
