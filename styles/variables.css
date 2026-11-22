@@ -28,9 +28,3 @@
     --header-min-size: 768px;
   }
 }
-
-@media (width >= 1024px) {
-  :root {
-    --header-min-size: 1024px;
-  }
-}
